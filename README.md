@@ -1,7 +1,7 @@
 
 ## Connect With Me
 
-🌐 Portfolio: [My Website]([https://your-link.com](https://nurunnaharnody0011.github.io/my-first-project/))  
+🌐 Portfolio: [My Website](https://nurunnaharnody0011.github.io/my-first-project/) 
 💻 GitHub: [nurunnaharnody0011](https://github.com/nurunnaharnody0011)
 # Nurunnahar nody - Profile Website
 
